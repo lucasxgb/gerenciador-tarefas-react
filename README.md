@@ -1,8 +1,9 @@
-# React + Vite
+# Gerenciador de Tarefas - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Gerenciador de tarefas completo construido em react, as suas funcionalidades são
+- Adição de Tarefas
+- Exclusão de Tarefas
+- Ver detalhes de Tarefas
 
-Currently, two official plugins are available:
+Constuído a partir do curso [https://www.youtube.com/watch?v=2RWsLmu8yVc&t=3114s](Curso de React para Completos Iniciantes)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
